@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PallabDocuments16/Workspace/Selenium Jars/selenium-server-standalone-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PallabDocuments16/Workspace/Selenium Jars/Cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PallabDocuments16/Workspace/Selenium Jars/Cucumber/cucumber-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PallabDocuments16/Workspace/Selenium Jars/Cucumber/cucumber-java-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PallabDocuments16/Workspace/Selenium Jars/Cucumber/cucumber-junit-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PallabDocuments16/Workspace/Selenium Jars/Cucumber/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PallabDocuments16/Workspace/Selenium Jars/Cucumber/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PallabDocuments16/Workspace/Selenium Jars/Cucumber/gherkin-2.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PallabDocuments16/Workspace/Selenium Jars/Cucumber/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PallabDocuments16/Workspace/Selenium Jars/Cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
