@@ -16,6 +16,8 @@ public class Test {
 
 	public static void main(String[] args) {
 		
+		// This is the general selenium code to check if the functionality is working 
+		
 		WebDriver driver;
 		
 		// Scenario 1
